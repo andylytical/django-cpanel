@@ -1,7 +1,6 @@
 # Custom
 src/data/
 migrations/
-manage.py
 backups/
 
 
